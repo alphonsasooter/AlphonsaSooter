@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Alphonsa Sooter
 
-<!--
-**alphonsasooter/AlphonsaSooter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🌱 I’m currently learning *Flutter* and *MongoDB* to strengthen my app development skills  
+- 💡 I enjoy transforming ideas into functional and visually appealing applications  
+- 🧠 Interested in both *frontend and backend development* — from designing UI to managing databases  
+- 💡 Passionate about building creative tech projects  
+- 📫 Reach me at: [https://www.linkedin.com/in/alphonsa-sooter-289065349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+
+**Languages:**  
+C, Java, Dart, HTML, CSS, JavaScript, Python  
+
+**Frontend:**  
+Flutter, React.js, HTML, CSS, JavaScript, Bootstrap  
+
+**Backend:**  
+Node.js, Express.js, PHP, Java (Spring Boot), Python (Flask / Django)  
+
+**Databases:**  
+MongoDB, MySQL, Firebase  
+
+**Tools:**  
+Android Studio, GitHub Desktop, XAMPP, MongoDB Compass, VS Code
