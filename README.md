@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alphonsa Sooter  
+# 👋 Hi, I'm Alphonsa   
 
 ### 💻 About Me  
 🌱 I’m currently learning *Flutter* and *MongoDB* to strengthen my app development skills  
