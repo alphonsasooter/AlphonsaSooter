@@ -2,9 +2,8 @@
 
 ### 💻 About Me  
 🌱 I’m currently learning *Flutter* and *MongoDB* to strengthen my app development skills  
-💡 I enjoy transforming ideas into functional and visually appealing applications  
 🧠 Interested in both *frontend* and *backend development* — from designing UI to managing databases  
-🚀 Passionate about building creative tech projects   
+
 
 ---
 
