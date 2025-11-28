@@ -4,8 +4,7 @@
 🌱 I’m currently learning *Flutter* and *MongoDB* to strengthen my app development skills  
 💡 I enjoy transforming ideas into functional and visually appealing applications  
 🧠 Interested in both *frontend* and *backend development* — from designing UI to managing databases  
-🚀 Passionate about building creative tech projects  
-📫 Connect with me on [*LinkedIn*](https://www.linkedin.com/in/alphonsa-sooter-289065349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🚀 Passionate about building creative tech projects   
 
 ---
 
