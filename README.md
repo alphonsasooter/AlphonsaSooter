@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alphonsa   
 
 ### 💻 About Me  
-🌱 I’m currently learning *Flutter* and *MongoDB* to strengthen my app development skills  
-🧠 Interested in both *frontend* and *backend development* — from designing UI to managing databases  
+I’m currently learning *Flutter* and *MongoDB* to strengthen my app development skills  
+Interested in both *frontend* and *backend development* — from designing UI to managing databases  
 
 
 ---
