@@ -44,4 +44,4 @@ Interested in both *frontend* and *backend development* — from designing UI to
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
