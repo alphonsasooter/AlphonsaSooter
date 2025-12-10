@@ -7,13 +7,13 @@
 
 ---
 
-## 💡 About Me  
+## About Me 
 I’m a passionate developer who enjoys building apps, exploring new technologies, and improving my skills in both frontend and backend development.  
 I love learning step-by-step and strengthening my problem-solving abilities through real projects.
 
 ---
 
-## 🌱 Currently Learning  
+## Currently Learning  
 - **Flutter** – building mobile applications  
 - **MongoDB** – understanding NoSQL databases  
 - **Java** – improving OOP and backend skills  
@@ -22,7 +22,7 @@ I love learning step-by-step and strengthening my problem-solving abilities thro
 
 ---
 
-## 🎯 Want to Learn Next  
+## Want to Learn Next  
 - **Firebase** – authentication & cloud storage  
 - **Spring Boot** – advanced Java backend  
 - **Django** – Python web development  
