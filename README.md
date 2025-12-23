@@ -6,33 +6,43 @@
 </p>
 
 ---
+##  Get to Know Me 😄
 
-## About Me 
-I’m a passionate developer who enjoys building apps, exploring new technologies, and improving my skills in both frontend and backend development.  
-I love learning step-by-step and strengthening my problem-solving abilities through real projects.
+I'm a passionate developer who enjoys building real-world applications, exploring new technologies,  
+and continuously improving my skills across **frontend**, **backend**, and **mobile development**.
 
----
-
-## Currently Learning  
-- **Flutter** – building mobile applications  
-- **MongoDB** – understanding NoSQL databases  
-- **Java** – improving OOP and backend skills  
-- **React** – creating interactive web interfaces  
-- **Node.js + Express.js** – API and backend development  
+I believe in learning step-by-step, writing clean code, and strengthening my  
+**problem-solving abilities** through hands-on projects.
 
 ---
 
-## Want to Learn Next  
-- **Firebase** – authentication & cloud storage  
-- **Spring Boot** – advanced Java backend  
-- **Django** – Python web development  
-- **DevOps Basics** – Docker, GitHub Actions  
-- **MySQL Advanced Concepts** – joins, indexing, triggers  
+## 📚 Currently Learning
+- Flutter– building cross-platform mobile applications  
+- MongoDB– understanding NoSQL databases and data modeling    
+- React – creating fast, interactive user interfaces  
+- Node.js & Express.js – REST APIs and backend development  
 
----## 🔧 Tech Stack
+---
+
+## 🎯 Want to Learn Next
+- Spring Boot– advanced Java backend development  
+- System Design– scalable and maintainable application architecture  
+
+---
+
+## 💡 Interests
+- Full-stack & mobile app development   
+- UI/UX design and user-friendly interfaces  
+- Learning new frameworks & tools  
+  
+
+---
+  
+
+## 🔧 Tech Stack
 
 ### 💻 Languages
-<p align="left" style="background-color:#0d1117; padding:10px; border-radius:8px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
@@ -44,17 +54,18 @@ I love learning step-by-step and strengthening my problem-solving abilities thro
 ---
 
 ### 🎨 Frontend
-<p align="left" style="background-color:#0d1117; padding:10px; border-radius:8px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
 </p>
 
 ---
 
 ### ⚙️ Backend
-<p align="left" style="background-color:#0d1117; padding:10px; border-radius:8px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
@@ -64,7 +75,7 @@ I love learning step-by-step and strengthening my problem-solving abilities thro
 ---
 
 ### 🗄️ Databases
-<p align="left" style="background-color:#0d1117; padding:10px; border-radius:8px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
@@ -75,18 +86,47 @@ I love learning step-by-step and strengthening my problem-solving abilities thro
 ---
 
 ### 🛠️ Tools & Platforms
-<p align="left" style="background-color:#0d1117; padding:10px; border-radius:8px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 </p>
 
+<p><b>Other Tools:</b> Cursor, Claude AI</p>
 
-## 🚀 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alphonsa&show_icons=true&theme=radical"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsa&layout=compact&theme=radical"/>
+---
+
+### 🌐 Social
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="36" style="filter: invert(1);" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="36" style="filter: invert(1);" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="36" style="filter: invert(1);" />
+  </a>
 </p>
 
 ---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+
+<p align="center">✨️ Thanks for visiting my profile ✨️</p>
