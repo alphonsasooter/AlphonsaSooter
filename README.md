@@ -113,14 +113,14 @@ I believe in learning step-by-step, writing clean code, and strengthening my
 </p>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact" />
 </p>
 
 <p align="center">✨️ Thanks for visiting my profile ✨️</p>
