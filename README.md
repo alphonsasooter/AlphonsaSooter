@@ -95,7 +95,6 @@ I believe in learning step-by-step, writing clean code, and strengthening my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 </p>
 
-<p><b>Other Tools:</b> Cursor,</p>
 
 ---
 
