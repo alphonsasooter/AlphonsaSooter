@@ -118,9 +118,6 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=firebase" width="60"/><br/>Firebase
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=oracle" width="60"/><br/>Oracle
-    </td>
   </tr>
 </table>
 
