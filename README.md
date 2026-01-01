@@ -33,20 +33,30 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 ## 🔧 Tech Stack
 
 
+---
+
 ### 💻 Languages
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/><br/>C
+      <img src="https://skillicons.dev/icons?i=c" width="60"/><br/>C
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br/>Python
+      <img src="https://skillicons.dev/icons?i=python" width="60"/><br/>Python
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/><br/>Java
+      <img src="https://skillicons.dev/icons?i=java" width="60"/><br/>Java
     </td>
     <td align="center" width="120">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/><br/>JavaScript
+      <img src="https://skillicons.dev/icons?i=javascript" width="60"/><br/>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="60"/><br/>HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="60"/><br/>CSS
     </td>
   </tr>
 </table>
@@ -57,16 +67,19 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://media.giphy.com/media/1g3u6x7u8cJ7xJpC9x/giphy.gif" width="60"/><br/>React
+      <img src="https://skillicons.dev/icons?i=flutter" width="60"/><br/>Flutter
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60"/><br/>Flutter
+      <img src="https://skillicons.dev/icons?i=react" width="60"/><br/>React
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="60"/><br/>Vue
+      <img src="https://skillicons.dev/icons?i=vue" width="60"/><br/>Vue
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60"/><br/>Angular
+      <img src="https://skillicons.dev/icons?i=angular" width="60"/><br/>Angular
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br/>Bootstrap
     </td>
   </tr>
 </table>
@@ -77,16 +90,16 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/><br/>Node.js
+      <img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br/>Node.js
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60"/><br/>Express
+      <img src="https://skillicons.dev/icons?i=express" width="60"/><br/>Express
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60"/><br/>PHP
+      <img src="https://skillicons.dev/icons?i=php" width="60"/><br/>PHP
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60"/><br/>Dart
+      <img src="https://skillicons.dev/icons?i=dart" width="60"/><br/>Dart
     </td>
   </tr>
 </table>
@@ -97,53 +110,62 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://media.giphy.com/media/KzYd8jH8pUQK3M4JkR/giphy.gif" width="60"/><br/>MongoDB
+      <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br/>MongoDB
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/><br/>MySQL
+      <img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>MySQL
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="60"/><br/>Firebase
+      <img src="https://skillicons.dev/icons?i=firebase" width="60"/><br/>Firebase
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60"/><br/>Oracle
+      <img src="https://skillicons.dev/icons?i=oracle" width="60"/><br/>Oracle
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/><br/>GitHub
+      <img src="https://skillicons.dev/icons?i=github" width="60"/><br/>GitHub
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/><br/>Git
+      <img src="https://skillicons.dev/icons?i=vscode" width="60"/><br/>VS Code
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"/><br/>VS Code
+      <img src="https://skillicons.dev/icons?i=vercel" width="60"/><br/>Vercel
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="60"/><br/>Vercel
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="60"/><br/>Android Studio
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vite" width="60"/><br/>Vite
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🌐 Social
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="36" style="filter: invert(1);" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="36" style="filter: invert(1);" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="36" style="filter: invert(1);" />
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>
-
 ---
 <p align="center">✨️ Thanks for visiting my profile ✨️</p>
