@@ -1,0 +1,14 @@
+name: Auto Docs Update
+
+on: [push]
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo "Last update: $(date)" >> README.md
+      - run: |
+          git add README.md
+          git commit -m "Auto update README"
+          git push
