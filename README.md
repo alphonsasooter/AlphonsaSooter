@@ -166,10 +166,10 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   </a>
 </p>
  
-##  GitHub Analytics
+## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -177,11 +177,9 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alphonsasooter&label=Profile%20Views&color=blue&style=flat" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true)
 
 <p align="center">✨️ Thanks for visiting my profile ✨️</p>
