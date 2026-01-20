@@ -174,9 +174,10 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true" />
-</p> 
+</p>
 
-![](https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 <p align="center">✨️ 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ✨️</p>
