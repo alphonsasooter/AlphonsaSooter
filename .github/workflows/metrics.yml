@@ -2,14 +2,20 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
+    - cron: "0 0 * * *"   # every 24 hours
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -25,6 +31,13 @@ jobs:
           plugin_stargazers: yes
           plugin_followup: yes
           plugin_topics: yes
-
           plugin_3d: yes
           plugin_3d_days: 365
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update GitHub metrics" || echo "Nothing to commit"
+          git push
