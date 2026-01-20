@@ -1,6 +1,6 @@
-<!-- Header -->
-<h1 align="center"> Hey,
-I'm <span style="color:#6C63FF">Alphonsa!</span> </h1>
+<h1 align="center" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 40px;">
+  Hey , I'm Alphonsa!
+</h1>
 
 <p align="center">
   Always Learning |  Building Real Projects
