@@ -180,4 +180,6 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true" />
 </p> 
 
+![](https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 <p align="center">✨️ Thanks for visiting my profile ✨️</p>
