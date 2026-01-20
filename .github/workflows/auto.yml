@@ -2,21 +2,26 @@ name: Auto Commit Demo
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  demo:
+  commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Create file
-        run: |
-          echo "Hello from GitHub Actions" > auto.txt
+      - uses: actions/checkout@v4
 
-      - name: Commit file
+      - name: Make change
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "Updated on $(date)" >> auto.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add .
-          git commit -m "Auto update file"
+          git commit -m "Auto update" || echo "Nothing to commit"
           git push
