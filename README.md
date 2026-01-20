@@ -180,6 +180,5 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true)
 <p align="center">✨️ Thanks for visiting my profile ✨️</p>
