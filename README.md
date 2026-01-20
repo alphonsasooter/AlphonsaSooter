@@ -173,14 +173,10 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true" />
 </p> 
 
 ![](https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
-<p align="center">✨️ Thanks for visiting my profile ✨️</p>
+<p align="center">✨️ 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ✨️</p>
