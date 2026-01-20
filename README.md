@@ -166,25 +166,22 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   </a>
 </p>
  
-
-## 📊 GitHub Status
+##  GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alphonsasooter&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">✨️ Thanks for visiting my profile ✨️</p>
