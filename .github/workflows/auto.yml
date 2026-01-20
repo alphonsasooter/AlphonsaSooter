@@ -9,19 +9,19 @@ permissions:
   contents: write
 
 jobs:
-  commit:
+  demo:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Make change
-        run: |
-          echo "Updated on $(date)" >> auto.txt
+      - name: Create file
+        run: echo "Updated on $(date)" >> demo.txt
 
-      - name: Commit and push
+      - name: Commit file
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto update" || echo "Nothing to commit"
+          git commit -m "Auto update file" || echo "Nothing to commit"
           git push
