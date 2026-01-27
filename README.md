@@ -172,6 +172,8 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true&format=png)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night)
+
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
