@@ -168,13 +168,12 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
  
 ## 📊 GitHub Status
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alphonsasooter&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -182,9 +181,8 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphonsasooter&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alphonsasooter&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="center">  𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 — 𝒌𝒆𝒆𝒑 𝒄𝒐𝒅𝒊𝒏𝒈, 𝒔𝒕𝒂𝒚 𝒂𝒘𝒆𝒔𝒐𝒎𝒆, 𝒂𝒏𝒅 𝒍𝒆𝒕’𝒔 𝒃𝒖𝒊𝒍𝒅 𝒈𝒓𝒆𝒂𝒕 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒓𝒐𝒎 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒄𝒐𝒅𝒆.✨️</p>
