@@ -174,7 +174,7 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night)
 
-![GitHub Metrics](./github-metrics.svg)
+
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
