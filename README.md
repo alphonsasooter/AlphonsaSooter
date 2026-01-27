@@ -168,12 +168,21 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
  
 ## 📊 GitHub Status
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphonsasooter&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
