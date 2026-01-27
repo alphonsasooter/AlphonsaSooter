@@ -170,11 +170,7 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&format=png)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alphonsasooter&theme=tokyonight&hide_border=true&format=png)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true&format=png)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=alphonsasooter&theme=tokyonight&no-frame=true&margin-w=10&format=png)
 
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
