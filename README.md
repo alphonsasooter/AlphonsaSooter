@@ -154,17 +154,14 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-
     <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/" target="_blank">
-
-    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  <img src="https://skillicons.dev/icons?i=discord" width="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/" target="_blank">
-
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>
