@@ -6,15 +6,15 @@ on:
   workflow_dispatch:          # Manual run option
 
 permissions:
-  contents: write            # Needed to push updates
+  contents: write            # Allows workflow to push updates
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repository
-      - name: Checkout repo
+      # 1️⃣ Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       # 2️⃣ Generate GitHub Metrics SVG
@@ -36,10 +36,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_3d: yes
 
-      # 3️⃣ Update README with metrics card (no last updated)
+      # 3️⃣ Update README with metrics card only (no last updated)
       - name: Update README
         run: |
           METRICS_URL="metrics.svg"
+          
           # Remove old metrics section if exists
           sed -i '/<!-- METRICS-START -->/,/<!-- METRICS-END -->/d' README.md || true
           
@@ -50,7 +51,7 @@ jobs:
           echo "</p>" >> README.md
           echo "<!-- METRICS-END -->" >> README.md
 
-      # 4️⃣ Commit & push safely
+      # 4️⃣ Commit & Push safely
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
