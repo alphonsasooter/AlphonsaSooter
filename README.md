@@ -165,8 +165,6 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>
-<h3>🎧 Spotify Now Playing</h3>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=NohilSunny&cover_image=true&theme=default&show_offline=false" />
 
 ___
 
