@@ -2,19 +2,23 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"    # Every day at 00:00 UTC
+  workflow_dispatch:        # Allows manual run anytime
 
 permissions:
-  contents: write
+  contents: write           # Allows committing files
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Generate metrics
+    steps:
+      # 1️⃣ Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Generate metrics SVG
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -25,31 +29,36 @@ jobs:
           # Base sections
           base: header, repositories, activity
 
-          # Repositories options
-          repositories_affiliations: owner      # Show only your repos
-          repositories_forks: yes               # Show forked repos
+          # Repository options
+          repositories_affiliations: owner
+          repositories_forks: yes
 
-          # Stats (like a status card)
-          plugin_lines: yes                     # Total commits (lines)
-          plugin_followup: yes                  # Followers/following
-          plugin_repositories: yes              # Total repos
-          plugin_stars: yes                     # Total stars
-          plugin_pull_requests: yes             # Total PRs
+          # Stats
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_repositories: yes
+          plugin_stars: yes
+          plugin_pull_requests: yes
 
           # Contribution activity
-          plugin_isocalendar: yes               # Contribution calendar graph
-          plugin_3d: yes                        # 3D contribution graph (optional)
+          plugin_isocalendar: yes
+          plugin_3d: yes
 
-          # Languages (clean & colorful)
+          # Languages
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 5
           plugin_languages_colors: github
 
-      - name: Commit and push
+      # 3️⃣ Commit & push the new metrics
+      - name: Commit and Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add metrics.svg
-          git commit -m "Update GitHub status card" || exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update GitHub metrics"
           git push
