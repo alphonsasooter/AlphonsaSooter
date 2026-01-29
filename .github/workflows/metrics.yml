@@ -3,7 +3,7 @@ name: Generate GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *" # every day at 00:00 UTC
-  workflow_dispatch:    # allows manual run
+  workflow_dispatch:    # manual run
 
 permissions:
   contents: write
