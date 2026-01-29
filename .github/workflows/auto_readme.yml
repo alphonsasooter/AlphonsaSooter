@@ -1,9 +1,9 @@
-name: Auto README Update
+name: Auto README Update (Weekly)
 
 on:
   schedule:
-    - cron: "0 0 * * *"       # Runs daily at midnight
-  workflow_dispatch:          # Allows manual run anytime
+    - cron: "0 0 * * 0"       # Every Sunday at 00:00 UTC
+  workflow_dispatch:          # Manual run option
 
 permissions:
   contents: write            # Needed to push updates
@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout your repository
-      - name: Checkout repo
+      # Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣ Generate GitHub Metrics card
+      # Generate metrics
       - name: Generate Metrics SVG
         uses: lowlighter/metrics@latest
         with:
@@ -36,16 +36,12 @@ jobs:
           plugin_isocalendar: yes
           plugin_3d: yes
 
-      # 3️⃣ Update README with metrics card & last updated date
+      # Update README
       - name: Update README
         run: |
           METRICS_URL="metrics.svg"
           DATE=$(date '+%Y-%m-%d %H:%M:%S')
-          
-          # Remove old metrics section if exists
           sed -i '/<!-- METRICS-START -->/,/<!-- METRICS-END -->/d' README.md || true
-          
-          # Append new metrics section
           echo "<!-- METRICS-START -->" >> README.md
           echo "<p align='center'>" >> README.md
           echo "  <img src='https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/$METRICS_URL' />" >> README.md
@@ -53,19 +49,16 @@ jobs:
           echo "<p align='center'>Last updated: $DATE</p>" >> README.md
           echo "<!-- METRICS-END -->" >> README.md
 
-      # 4️⃣ Commit & Push safely
+      # Commit & push safely
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md metrics.svg
-          
-          # Only commit if there are changes
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          
           git commit -m "Auto update README & metrics"
           git push
           echo "✅ README updated successfully"
