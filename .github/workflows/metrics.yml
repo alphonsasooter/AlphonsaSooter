@@ -2,8 +2,8 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight UTC
-  workflow_dispatch:    # manual run
+    - cron: "0 0 * * 1"  # Every Monday at 00:00 UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,10 +11,8 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
