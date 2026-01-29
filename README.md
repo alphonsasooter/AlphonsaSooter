@@ -168,7 +168,9 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
  ## 📊 GitHub Status
 
-
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight" />
+</p>
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true)
 
