@@ -2,11 +2,11 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
-  workflow_dispatch:      # Optional: manual run
+    - cron: "0 0 * * *"  # Daily at 00:00 UTC
+  workflow_dispatch:
 
 permissions:
-  contents: write  # Needed to commit metrics.svg
+  contents: write
 
 jobs:
   metrics:
@@ -36,7 +36,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 5
           plugin_languages_colors: github
-          output_file: metrics.svg   # Ensures the SVG is always metrics.svg
+          output_file: metrics.svg
 
       # 3️⃣ Commit and push the metrics.svg
       - name: Commit and Push
