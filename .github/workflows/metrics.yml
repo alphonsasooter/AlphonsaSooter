@@ -2,8 +2,8 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at 00:00 UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch:    # manual run
 
 permissions:
   contents: write
@@ -11,7 +11,6 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -34,9 +33,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 5
           plugin_languages_colors: github
-          output_file: metrics.svg  # ⚠️ Only generates metrics.svg
 
-      - name: Commit and Push metrics.svg
+      - name: Commit Metrics SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
