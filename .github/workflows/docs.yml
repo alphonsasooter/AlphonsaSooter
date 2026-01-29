@@ -2,27 +2,38 @@ name: Auto Docs Update
 
 on:
   push:
-    branches: [main]
-  workflow_dispatch:
+    branches: [main]          # run only on main branch
+  workflow_dispatch:           # allows manual run
 
 permissions:
-  contents: write   # needed to push commits
+  contents: write              # needed to push changes
 
 jobs:
   docs:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Update README
-        run: echo "Last update: $(date)" >> README.md
+        run: |
+          # Append last update date
+          DATE=$(date '+%Y-%m-%d %H:%M:%S')
+          echo "Last update: $DATE" >> README.md
 
-      - name: Commit and Push
+      - name: Commit and Push safely
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add README.md
-          git commit -m "Auto update README" || echo "No changes to commit"
+          
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "Auto update README"
           git push
           echo "✅ README updated successfully"
