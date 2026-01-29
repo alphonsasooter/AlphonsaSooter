@@ -187,3 +187,8 @@ Last update: 2026-01-29 07:39:05
 Last update: 2026-01-29 07:40:27
 Last update: 2026-01-29 07:41:50
 Last update: 2026-01-29 07:44:38
+<!-- METRICS-START -->
+<p align='center'>
+  <img src='https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/metrics.svg' />
+</p>
+<!-- METRICS-END -->
