@@ -1,44 +1,22 @@
-name: Generate GitHub Metrics
+name: Test Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs every day at 00:00 UTC
-  workflow_dispatch:       # Allows manual run anytime
+  workflow_dispatch:   # manual test only
 
 permissions:
-  contents: write           # Needed to push metrics.svg
+  contents: write
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout repository
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # 2️⃣ Generate metrics.svg
-      - name: Generate metrics.svg
-        uses: lowlighter/metrics@v1.0.7  # Stable version
+      - name: Generate metrics.svg minimal
+        uses: lowlighter/metrics@v1.0.7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: alphonsasooter        # Make sure spelling is exact
+          user: alphonsasooter
           template: classic
-          base: header, repositories
-          output_file: metrics.svg    # Only generate the SVG
-
-      # 3️⃣ Commit metrics.svg safely
-      - name: Commit metrics.svg
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.svg
-
-          # Exit if no changes
-          if git diff --cached --quiet; then
-            echo "✅ No changes to commit"
-            exit 0
-          fi
-
-          # Commit and push
-          git commit -m "Update metrics.svg"
-          git push
+          base: header
+          output_file: metrics.svg
