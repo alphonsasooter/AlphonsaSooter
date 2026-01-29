@@ -2,18 +2,18 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at 00:00 UTC
-  workflow_dispatch:    # manual run
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:       # manual trigger
 
 permissions:
-  contents: write
+  contents: write          # allows pushing metrics.svg
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Generate metrics.svg
