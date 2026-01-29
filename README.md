@@ -169,7 +169,7 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
  ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/github-metrics.svg" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night)
