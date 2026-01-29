@@ -1,32 +1,10 @@
 name: Auto Docs Update
 
 on:
-  push:
-    branches: [main]
-  workflow_dispatch:
-
-permissions:
-  contents: write
+  workflow_dispatch
 
 jobs:
-  docs:
+  disabled:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Update README safely
-        run: |
-          # Remove old line if exists
-          sed -i '/^Last update:/d' README.md
-          
-          # Add single clean line
-          echo "Last update: $(date '+%Y-%m-%d')" >> README.md
-
-      - name: Commit once
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet && exit 0
-          git commit -m "Update README date"
-          git push
+      - run: echo "README auto update disabled"
