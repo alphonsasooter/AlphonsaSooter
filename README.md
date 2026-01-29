@@ -168,10 +168,7 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
  ## 📊 GitHub Status
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alphonsasooter/alphonsasooter/main/github-metrics.svg" />
-</p>
+![GitHub Metrics](https://github.com/alphonsasooter/alphonsasooter/blob/main/metrics.svg)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night)
 
