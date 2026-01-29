@@ -20,15 +20,25 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: alphonsasooter
           template: classic
-          base: header, repositories
           config_timezone: Asia/Kolkata
 
-          # Simple global stats (like a status card)
-          plugin_lines: yes              # total commits (lines of code activity)
-          plugin_followup: yes
-          plugin_repositories: yes
-          plugin_stars: yes              # total stars
-          plugin_pull_requests: yes      # total PRs
+          # Base sections
+          base: header, repositories, activity
+
+          # Repositories options
+          repositories_affiliations: owner      # Show only your repos
+          repositories_forks: yes               # Show forked repos
+
+          # Stats (like a status card)
+          plugin_lines: yes                     # Total commits (lines)
+          plugin_followup: yes                  # Followers/following
+          plugin_repositories: yes              # Total repos
+          plugin_stars: yes                     # Total stars
+          plugin_pull_requests: yes             # Total PRs
+
+          # Contribution activity
+          plugin_isocalendar: yes               # Contribution calendar graph
+          plugin_3d: yes                        # 3D contribution graph (optional)
 
           # Languages (clean & colorful)
           plugin_languages: yes
