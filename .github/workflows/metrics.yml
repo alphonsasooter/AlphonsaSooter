@@ -2,20 +2,22 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at 00:00 UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
+  workflow_dispatch:      # Optional: manual run
 
 permissions:
-  contents: write
+  contents: write  # Needed to commit metrics.svg
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2️⃣ Generate metrics.svg
       - name: Generate Metrics SVG
         uses: lowlighter/metrics@latest
         with:
@@ -34,7 +36,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 5
           plugin_languages_colors: github
+          output_file: metrics.svg   # Ensures the SVG is always metrics.svg
 
+      # 3️⃣ Commit and push the metrics.svg
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
