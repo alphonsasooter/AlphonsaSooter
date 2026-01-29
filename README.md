@@ -164,6 +164,9 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
+<a href="https://open.spotify.com/user/NohilSunny" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spotify" width="45"/>
+</a>
 </p>
 
 ___
