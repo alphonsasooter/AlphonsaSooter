@@ -168,8 +168,8 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
  ## 📊 GitHub Status
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Status Card](https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter&layout=compact&theme=tokyonight&hide_border=true)
