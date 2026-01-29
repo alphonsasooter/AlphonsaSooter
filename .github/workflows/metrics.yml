@@ -2,7 +2,7 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
+    - cron: "0 0 * * *"   # Runs every day at 00:00 UTC
   workflow_dispatch:       # Allows manual run anytime
 
 permissions:
@@ -11,21 +11,20 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
       # 1️⃣ Checkout repository
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 2️⃣ Generate metrics.svg (minimal)
+      # 2️⃣ Generate metrics.svg
       - name: Generate metrics.svg
         uses: lowlighter/metrics@v1.0.7  # Stable version
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: alphonsasooter          # Make sure username is exact
+          user: alphonsasooter        # Make sure spelling is exact
           template: classic
           base: header, repositories
-          output_file: metrics.svg      # Only generate SVG
+          output_file: metrics.svg    # Only generate the SVG
 
       # 3️⃣ Commit metrics.svg safely
       - name: Commit metrics.svg
