@@ -1,10 +1,11 @@
-name: Auto Docs Update
+name: Auto Docs Update (Disabled)
 
 on:
-  workflow_dispatch
+  workflow_dispatch   # Only runs if you manually click Run
 
 jobs:
   disabled:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "README auto update disabled"
+      - name: Auto README update is disabled
+        run: echo "README auto update is now stopped."
