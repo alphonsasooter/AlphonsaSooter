@@ -32,50 +32,52 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 ## ⚙️ Tech Stack
 
 ### 🧑‍💻 Languages
-![C](https://badgen.net/badge/C/ /black?icon=terminal&labelColor=111111)
-![Java](https://badgen.net/badge/Java/ /black?icon=java&labelColor=111111)
-![Python](https://badgen.net/badge/Python/ /black?icon=python&labelColor=111111)
-![JavaScript](https://badgen.net/badge/JavaScript/ /black?icon=javascript&labelColor=111111)
-![HTML](https://badgen.net/badge/HTML/ /black?icon=html5&labelColor=111111)
-![CSS](https://badgen.net/badge/CSS/ /black?icon=css3&labelColor=111111)
-
----
+<p>
+  <img src="assets/tech/c.png" height="48" />
+  <img src="assets/tech/java.png" height="48" />
+  <img src="assets/tech/python.png" height="48" />
+  <img src="assets/tech/javascript.png" height="48" />
+  <img src="assets/tech/html.png" height="48" />
+  <img src="assets/tech/css.png" height="48" />
+</p>
 
 ### 🎨 Frontend
-![Flutter](https://badgen.net/badge/Flutter/ /black?icon=flutter&labelColor=111111)
-![React](https://badgen.net/badge/React/ /black?icon=react&labelColor=111111)
-![Vue](https://badgen.net/badge/Vue/ /black?icon=vue&labelColor=111111)
-![Angular](https://badgen.net/badge/Angular/ /black?icon=angular&labelColor=111111)
-![Bootstrap](https://badgen.net/badge/Bootstrap/ /black?icon=bootstrap&labelColor=111111)
-
----
+<p>
+  <img src="assets/tech/flutter.png" height="48" />
+  <img src="assets/tech/react.png" height="48" />
+  <img src="assets/tech/vue.png" height="48" />
+  <img src="assets/tech/angular.png" height="48" />
+  <img src="assets/tech/bootstrap.png" height="48" />
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://badgen.net/badge/Node.js/ /black?icon=node&labelColor=111111)
-![Express](https://badgen.net/badge/Express/ /black?icon=terminal&labelColor=111111)
-![PHP](https://badgen.net/badge/PHP/ /black?icon=php&labelColor=111111)
-![Dart](https://badgen.net/badge/Dart/ /black?icon=dart&labelColor=111111)
-
----
+<p>
+  <img src="assets/tech/nodejs.png" height="48" />
+  <img src="assets/tech/express.png" height="48" />
+  <img src="assets/tech/php.png" height="48" />
+  <img src="assets/tech/dart.png" height="48" />
+</p>
 
 ### 🗄️ Database
-![MySQL](https://badgen.net/badge/MySQL/ /black?icon=mysql&labelColor=111111)
-![MongoDB](https://badgen.net/badge/MongoDB/ /black?icon=mongodb&labelColor=111111)
-![Firebase](https://badgen.net/badge/Firebase/ /black?icon=firebase&labelColor=111111)
-![Oracle](https://badgen.net/badge/Oracle/ /black?icon=terminal&labelColor=111111)
-
----
+<p>
+  <img src="assets/tech/mysql.png" height="48" />
+  <img src="assets/tech/mongodb.png" height="48" />
+  <img src="assets/tech/firebase.png" height="48" />
+  <img src="assets/tech/oracle.png" height="48" />
+</p>
 
 ### 🛠️ Tools & Platforms
-![GitHub](https://badgen.net/badge/GitHub/ /black?icon=github&labelColor=111111)
-![VS Code](https://badgen.net/badge/VS%20Code/ /black?icon=visualstudio&labelColor=111111)
-![Vercel](https://badgen.net/badge/Vercel/ /black?icon=vercel&labelColor=111111)
-![Android Studio](https://badgen.net/badge/Android%20Studio/ /black?icon=android&labelColor=111111)
-![Vite](https://badgen.net/badge/Vite/ /black?icon=vite&labelColor=111111)
-![Windows](https://badgen.net/badge/Windows/ /black?icon=windows&labelColor=111111)
-![Linux](https://badgen.net/badge/Linux/ /black?icon=linux&labelColor=111111)
-![npm](https://badgen.net/badge/npm/ /black?icon=npm&labelColor=111111)
-![Git](https://badgen.net/badge/Git/ /black?icon=git&labelColor=111111)
+<p>
+  <img src="assets/tech/github.png" height="48" />
+  <img src="assets/tech/vscode.png" height="48" />
+  <img src="assets/tech/vercel.png" height="48" />
+  <img src="assets/tech/androidstudio.png" height="48" />
+  <img src="assets/tech/vite.png" height="48" />
+  <img src="assets/tech/windows.png" height="48" />
+  <img src="assets/tech/linux.png" height="48" />
+  <img src="assets/tech/npm.png" height="48" />
+  <img src="assets/tech/git.png" height="48" />
+</p>
 
 ---
 
