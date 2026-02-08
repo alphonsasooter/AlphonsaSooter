@@ -1,9 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=55&duration=2000&pause=700&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Alphonsa!;Hey%2C+I'm+Alphonsa!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=70&duration=2000&pause=700&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Alphonsa!;Hey%2C+I'm+Alphonsa!" />
 </h1>
 
 <h3 align="center">Always Learning | Building Real Projects</h3>
-
 ---
 ##  Get to Know Me 😄
 
