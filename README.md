@@ -33,50 +33,31 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ### 🧑‍💻 Languages
 <p>
-  <img src="assets/tech/c.png" height="48" />
-  <img src="assets/tech/java.png" height="48" />
-  <img src="assets/tech/python.png" height="48" />
-  <img src="assets/tech/javascript.png" height="48" />
-  <img src="assets/tech/html.png" height="48" />
-  <img src="assets/tech/css.png" height="48" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="assets/tech/flutter.png" height="48" />
-  <img src="assets/tech/react.png" height="48" />
-  <img src="assets/tech/vue.png" height="48" />
-  <img src="assets/tech/angular.png" height="48" />
-  <img src="assets/tech/bootstrap.png" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="assets/tech/nodejs.png" height="48" />
-  <img src="assets/tech/express.png" height="48" />
-  <img src="assets/tech/php.png" height="48" />
-  <img src="assets/tech/dart.png" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart&theme=dark" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="assets/tech/mysql.png" height="48" />
-  <img src="assets/tech/mongodb.png" height="48" />
-  <img src="assets/tech/firebase.png" height="48" />
-  <img src="assets/tech/oracle.png" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="assets/tech/github.png" height="48" />
-  <img src="assets/tech/vscode.png" height="48" />
-  <img src="assets/tech/vercel.png" height="48" />
-  <img src="assets/tech/androidstudio.png" height="48" />
-  <img src="assets/tech/vite.png" height="48" />
-  <img src="assets/tech/windows.png" height="48" />
-  <img src="assets/tech/linux.png" height="48" />
-  <img src="assets/tech/npm.png" height="48" />
-  <img src="assets/tech/git.png" height="48" />
+  <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify&theme=dark" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vite,postman,npm,linux,windows&theme=dark" />
 </p>
 
 ---
