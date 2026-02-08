@@ -31,50 +31,33 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 ## ⚙️ Tech Stack
 
 ### 🧑‍💻 Languages
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
+</p>
 
 ### 🎨 Frontend
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=white)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,bootstrap&theme=dark" />
+</p>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart&theme=dark" />
+</p>
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-111111?style=flat-square&logo=oracle&logoColor=white)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle&theme=dark" />
+</p>
 
 ### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-111111?style=flat-square&logo=androidstudio&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
-![npm](https://img.shields.io/badge/npm-111111?style=flat-square&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify&theme=dark" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vite,postman,npm,linux,windows&theme=dark" />
+</p>
 
 ---
 
