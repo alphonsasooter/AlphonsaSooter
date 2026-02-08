@@ -28,43 +28,36 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   
 
 ---
-  ## ⚙️ Tech Stack
+
+## ⚙️ Tech Stack
 
 ### 🧑‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle&theme=dark" />
 </p>
 
-### 🛠️ Tools & Platforms (Advanced)
+### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,githubactions,gitlab" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify&theme=dark" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,docker,kubernetes,aws,vercel,netlify" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vite,npm,yarn,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vite,postman,npm,linux,windows&theme=dark" />
 </p>
 
 ---
