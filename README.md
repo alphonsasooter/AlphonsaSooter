@@ -1,9 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=70&duration=2000&pause=700&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Alphonsa!;Hey%2C+I'm+Alphonsa!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=85&duration=2000&pause=700&center=true&vCenter=true&width=1200&lines=Hey%2C+I'm+Alphonsa!;Hey%2C+I'm+Alphonsa!" />
 </h1>
 
 <h3 align="center">Always Learning | Building Real Projects</h3>
+
 ---
+
 ##  Get to Know Me 😄
 
 I'm a passionate developer who enjoys building real-world applications, exploring new technologies,and continuously improving my skills across **frontend**, **backend**, and **mobile development**.
