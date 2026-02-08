@@ -53,11 +53,11 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,vercel,androidstudio,vite" />
+  <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,npm,git" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vite,postman,docker,npm,linux,windows" />
 </p>
 
 ---
