@@ -28,8 +28,7 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   
 
 ---
-  
-## ⚙️ Tech Stack
+  ## ⚙️ Tech Stack
 
 ### 🧑‍💻 Languages
 <p>
@@ -46,18 +45,26 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms (Advanced)
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=github,git,githubactions,gitlab" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vite,postman,npm,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,docker,kubernetes,aws,vercel,netlify" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,npm,yarn,linux,windows" />
 </p>
 
 ---
