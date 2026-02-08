@@ -29,120 +29,32 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ---
   
+## ⚙️ Tech Stack
 
-## 🔧 Tech Stack
-
-
----
-
-### 💻 Languages
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=c" width="60"/><br/>C
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="60"/><br/>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=java" width="60"/><br/>Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=javascript" width="60"/><br/>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="60"/><br/>HTML
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="60"/><br/>CSS
-    </td>
-  </tr>
-</table>
-
----
+### 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+</p>
 
 ### 🎨 Frontend
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flutter" width="60"/><br/>Flutter
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="60"/><br/>React
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vue" width="60"/><br/>Vue
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=angular" width="60"/><br/>Angular
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br/>Bootstrap
-    </td>
-  </tr>
-</table>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,bootstrap" />
+</p>
 
 ### ⚙️ Backend
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br/>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=express" width="60"/><br/>Express
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="60"/><br/>PHP
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=dart" width="60"/><br/>Dart
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart" />
+</p>
 
----
-
-### 🗄️ Databases
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br/>MongoDB
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="60"/><br/>Firebase
-    </td>
-  </tr>
-</table>
-
----
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle" />
+</p>
 
 ### 🛠️ Tools & Platforms
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="60"/><br/>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="60"/><br/>VS Code
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vercel" width="60"/><br/>Vercel
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="60"/><br/>Android Studio
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vite" width="60"/><br/>Vite
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,vercel,androidstudio,vite,windows,linux,npm,git" />
+</p>
 
 ---
 
