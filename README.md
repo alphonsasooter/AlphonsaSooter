@@ -1,10 +1,8 @@
-<h1 align="center" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 40px;">
-  Hey , I'm Alphonsa!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=2000&pause=700&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Alphonsa!;Hey%2C+I'm+Alphonsa!;Hey%2C+I'm+Alphonsa!" />
 </h1>
 
-<p align="center">
-  Always Learning |  Building Real Projects
-</p>
+<h3 align="center">Always Learning | Building Real Projects</h3>
 
 ---
 ##  Get to Know Me 😄
