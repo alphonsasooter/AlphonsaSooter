@@ -57,7 +57,7 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vite,npm,linux,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vite,npm,cmake,linux,windows&theme=dark" />
 </p>
 
 ---
