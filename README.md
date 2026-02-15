@@ -92,7 +92,6 @@ ___
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" />
 </p>
-___
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
