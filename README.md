@@ -5,6 +5,31 @@
 <h3 align="center">Always Learning | Building Real Projects</h3>
 
 ---
+
+##  Get to Know Me 😄
+
+I'm a passionate developer who enjoys building real-world applications, exploring new technologies,and continuously improving my skills across **frontend**, **backend**, and **mobile development**.
+
+I believe in learning step-by-step and strengthening my **problem-solving abilities** through hands-on projects.
+
+---
+
+
+## Currently Learning
+- Flutter– building cross-platform mobile applications  
+- MongoDB– understanding NoSQL databases and data modeling    
+- React – creating fast, interactive user interfaces
+- Node.js & Express.js – REST APIs and backend development    
+  
+
+---
+
+##  Want to Learn Next
+- Spring Boot– advanced Java backend development  
+- System Design– scalable and maintainable application architecture
+
+___
+
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Languages
@@ -50,57 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/>
-</p>
-
-##  Get to Know Me 😄
-
-I'm a passionate developer who enjoys building real-world applications, exploring new technologies,and continuously improving my skills across **frontend**, **backend**, and **mobile development**.
-
-I believe in learning step-by-step and strengthening my **problem-solving abilities** through hands-on projects.
-
----
-
-
-## Currently Learning
-- Flutter– building cross-platform mobile applications  
-- MongoDB– understanding NoSQL databases and data modeling    
-- React – creating fast, interactive user interfaces
-- Node.js & Express.js – REST APIs and backend development    
-  
-
----
-
-##  Want to Learn Next
-- Spring Boot– advanced Java backend development  
-- System Design– scalable and maintainable application architecture
-
-___
-
-## ⚙️ Tech Stack
-
-### 🧑‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart&theme=dark" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle&theme=dark" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify&theme=dark" />
 </p>
 
 ---
