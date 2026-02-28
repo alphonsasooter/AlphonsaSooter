@@ -56,10 +56,6 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
   <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify&theme=dark" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vite,npm,cmake,linux,windows&theme=dark" />
-</p>
-
 ---
 
 ### 🌐 Social
@@ -94,9 +90,6 @@ ___
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alphonsasooter&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" />
-</p>
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
