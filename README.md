@@ -13,7 +13,28 @@ I'm a passionate developer who enjoys building real-world applications, explorin
 I believe in learning step-by-step and strengthening my **problem-solving abilities** through hands-on projects.
 
 ---
-
+### 🌐 Social
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/black" width="32"
+         style="background-color:white; border-radius:50%; padding:8px;"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/black" width="32"
+         style="background-color:white; border-radius:50%; padding:8px;"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/black" width="32"
+         style="background-color:white; border-radius:50%; padding:8px;"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/black" width="32"
+         style="background-color:white; border-radius:50%; padding:8px;"/>
+  </a>
+</p>
 
 ## Currently Learning
 - Flutter– building cross-platform mobile applications  
