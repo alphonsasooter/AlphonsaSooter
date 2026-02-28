@@ -94,4 +94,13 @@ ___
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" />
 
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight" width="48%" />
+
+</div>
+
 <p align="center">  𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 — 𝒌𝒆𝒆𝒑 𝒄𝒐𝒅𝒊𝒏𝒈, 𝒔𝒕𝒂𝒚 𝒂𝒘𝒆𝒔𝒐𝒎𝒆, 𝒂𝒏𝒅 𝒍𝒆𝒕’𝒔 𝒃𝒖𝒊𝒍𝒅 𝒈𝒓𝒆𝒂𝒕 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒓𝒐𝒎 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒄𝒐𝒅𝒆.✨️</p>
