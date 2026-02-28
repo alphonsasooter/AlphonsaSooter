@@ -13,6 +13,53 @@ I'm a passionate developer who enjoys building real-world applications, explorin
 I believe in learning step-by-step and strengthening my **problem-solving abilities** through hands-on projects.
 
 ---
+## ⚙️ Tech Stack
+
+### 🧑‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,angular,bootstrap&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,dart&theme=dark" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,oracle&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,githubactions,vscode,vercel,netlify&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR-USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/YOUR-ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+</p>
 
 ## Currently Learning
 - Flutter– building cross-platform mobile applications  
