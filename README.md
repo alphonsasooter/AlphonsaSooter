@@ -105,6 +105,7 @@ ___
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="30"/>
   </a>
 </p>
+
 ___
 
  ## 📊 GitHub Status
