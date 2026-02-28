@@ -23,6 +23,12 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ---
 
+##  Want to Learn Next
+- Spring Boot– advanced Java backend development  
+- System Design– scalable and maintainable application architecture
+
+___
+
 ## ⚙️ Tech Stack
 
 ### 🧑‍💻 Languages
@@ -83,10 +89,7 @@ ___
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-##  Want to Learn Next
-- Spring Boot– advanced Java backend development  
-- System Design– scalable and maintainable application architecture  
+  
   
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" />
