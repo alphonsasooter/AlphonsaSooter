@@ -85,10 +85,6 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alphonsasooter&theme=github_dark" />
-</p>
 
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
