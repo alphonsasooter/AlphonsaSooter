@@ -5,6 +5,33 @@
 <h3 align="center">Always Learning | Building Real Projects</h3>
 
 ---
+### 🌐 Social
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+         width="28"
+         style="background:white; border-radius:50%; padding:8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"
+         width="28"
+         style="background:white; border-radius:50%; padding:8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg"
+         width="28"
+         style="background:white; border-radius:50%; padding:8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+         width="28"
+         style="background:white; border-radius:50%; padding:8px;" />
+  </a>
+</p>
+
 
 ##  Get to Know Me 😄
 
