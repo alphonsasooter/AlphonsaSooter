@@ -106,6 +106,26 @@ ___
 </p>
 
 ___
+### 🌐 Social
+
+<p align="center">
+  <a href="https://github.com/ https://www.linkedin.com/in/ https://github.com/alphonsasooter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="30"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ https://www.linkedin.com/in/alphonsa-sooter-289065349/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30"/>
+  </a>
+
+  <a href="https://www.instagram.com/https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="30"/>
+  </a>
+
+  <a href="https://discord.com/users/alphonsa0973" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="30"/>
+  </a>
+</p>
+___
 
  ## 📊 GitHub Status
 
