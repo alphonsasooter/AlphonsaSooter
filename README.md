@@ -84,28 +84,8 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/>
 </p>
 
----
-
-### 🌐 Social
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-</p>
-
 ___
+
 ### 🌐 Social
 
 <p align="center">
