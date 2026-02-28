@@ -85,7 +85,7 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night)
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
