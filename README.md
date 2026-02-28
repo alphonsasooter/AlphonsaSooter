@@ -82,14 +82,6 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 </p>
 
 ___
-## ⚙️ Languages • Frameworks • Tools
-
-<p>
-  <img src="assets/animated/react.gif" width="64"/>
-  <img src="assets/animated/nextjs.gif" width="64"/>
-  <img src="assets/animated/tailwind.gif" width="64"/>
-  <img src="assets/animated/aws.gif" width="64"/>
-</p>
 
  ## 📊 GitHub Status
 
