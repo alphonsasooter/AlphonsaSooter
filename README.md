@@ -6,26 +6,6 @@
 
 ___
 
-### 🌐 Social
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/alphonsa-sooter-289065349/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/000000" width="30"/>
-  </a>
-
-  <a href="https://www.instagram.com/@asnohpla/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/000000" width="30"/>
-  </a>
-
-  <a href="https://discord.com/users/alphonsa0973" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/000000" width="30"/>
-  </a>
-
-  <a href="https://github.com/https://github.com/alphonsasooter" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/000000" width="30"/>
-  </a>
-</p>
-
 ##  Get to Know Me 😄
 
 I'm a passionate developer who enjoys building real-world applications, exploring new technologies,and continuously improving my skills across **frontend**, **backend**, and **mobile development**.
