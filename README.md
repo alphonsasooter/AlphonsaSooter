@@ -6,7 +6,7 @@
 
 ___
 
-##  Get to Know Me 😄
+### Get to Know Me 😄
 
 I'm a passionate developer who enjoys building real-world applications, exploring new technologies,and continuously improving my skills across **frontend**, **backend**, and **mobile development**.
 
