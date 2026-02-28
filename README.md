@@ -82,36 +82,6 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 </p>
 
 ___
-## ⚙️ Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="assets/frontend/html.svg"/>
-  <img src="assets/frontend/css.svg"/>
-  <img src="assets/frontend/javascript.svg"/>
-</p>
-
-### 🔙 Backend
-<p>
-  <img src="assets/backend/nodejs.svg"/>
-  <img src="assets/backend/python.svg"/>
-  <img src="assets/backend/java.svg"/>
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="assets/databases/mysql.svg"/>
-  <img src="assets/databases/mongodb.svg"/>
-  <img src="assets/databases/postgresql.svg"/>
-</p>
-
-### 🛠 Tools & Technologies
-<p>
-  <img src="assets/tools/git.svg"/>
-  <img src="assets/tools/github.svg"/>
-  <img src="assets/tools/linux.svg"/>
-  <img src="assets/tools/docker.svg"/>
-</p>
 
  ## 📊 GitHub Status
 
