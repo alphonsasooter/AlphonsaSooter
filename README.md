@@ -90,6 +90,11 @@ ___
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alphonsasooter&theme=github_dark" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" />
 </p>
 
