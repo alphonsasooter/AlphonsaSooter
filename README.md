@@ -5,25 +5,6 @@
 <h3 align="center">Always Learning | Building Real Projects</h3>
 
 ___
-<p align="center">
-
-  <a href="https://github.com/alphonsasooter">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=white" width="30"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/alphonsa-sooter-289065349/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg?color=white" width="30"/>
-  </a>
-
-  <a href="https://www.instagram.com/asnohpla/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg?color=white" width="30"/>
-  </a>
-
-  <a href="https://discord.com/users/alphonsa0973">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg?color=white" width="30"/>
-  </a>
-
-</p>
 
 ## Get to Know Me 😄
 
