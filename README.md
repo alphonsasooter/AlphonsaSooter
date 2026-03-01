@@ -112,7 +112,26 @@ ___
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="30"/>
   </a>
 </p>
+___
+<p align="center">
 
+  <a href="https://github.com/alphonsasooter">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="30"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/alphonsa-sooter-289065349/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30"/>
+  </a>
+
+  <a href="https://www.instagram.com/asnohpla/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="30"/>
+  </a>
+
+  <a href="https://discord.com/users/alphonsa0973">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="30"/>
+  </a>
+
+</p>
 ___
 
  ## 📊 GitHub Status
