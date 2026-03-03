@@ -143,7 +143,7 @@ ___
 
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alphonsasooter&theme=github_dark" />
+
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
