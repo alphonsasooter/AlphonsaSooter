@@ -137,9 +137,9 @@ ___
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night" width="49%"  />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" width="49%"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" width="49%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" width="49%" />
 
 </div>
 
