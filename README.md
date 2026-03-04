@@ -142,7 +142,7 @@ ___
   <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
