@@ -149,6 +149,14 @@ ___
 
 </div>
 
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" height="200" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" height="200"/>
+
+</div>
+
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
