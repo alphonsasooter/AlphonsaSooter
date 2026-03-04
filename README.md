@@ -142,8 +142,6 @@ ___
   <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
