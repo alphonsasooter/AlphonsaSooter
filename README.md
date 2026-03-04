@@ -135,11 +135,6 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" width="49%" />
-
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
 <div align="center">
 
@@ -149,13 +144,7 @@ ___
 
 </div>
 
-<div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" height="200" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" height="200"/>
-
-</div>
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
