@@ -148,5 +148,28 @@ ___
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
+___
+## Connect & Follow
+
+
+Stay updated with my projects, development journey, and tech explorations by connecting with me.
+
+<p align="center">
+
+<a href="https://github.com/alphonsasooter">
+<img src="https://img.shields.io/badge/GitHub-alphonsasooter-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/alphonsa-sooter-289065349">
+<img src="https://img.shields.io/badge/LinkedIn-Alphonsa%20Sooter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw">
+<img src="https://img.shields.io/badge/Instagram-@asnohpla-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
 
 <p align="center">  𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 — 𝒌𝒆𝒆𝒑 𝒄𝒐𝒅𝒊𝒏𝒈, 𝒔𝒕𝒂𝒚 𝒂𝒘𝒆𝒔𝒐𝒎𝒆, 𝒂𝒏𝒅 𝒍𝒆𝒕’𝒔 𝒃𝒖𝒊𝒍𝒅 𝒈𝒓𝒆𝒂𝒕 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒓𝒐𝒎 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒄𝒐𝒅𝒆.✨️</p>
+
