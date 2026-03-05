@@ -91,41 +91,6 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
 </p>
 
-___
-
-### 🌐 Social
-
-<p align="center">
-
-  <a href="https://github.com/alphonsasooter">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=white">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="30"/>
-    </picture>
-  </a>
-
-  <a href="https://www.linkedin.com/in/alphonsa-sooter-289065349/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg?color=white">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30"/>
-    </picture>
-  </a>
-
-  <a href="https://www.instagram.com/asnohpla/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg?color=white">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="30"/>
-    </picture>
-  </a>
-
-  <a href="https://discord.com/users/alphonsa0973">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg?color=white">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="30"/>
-    </picture>
-  </a>
-
-</p>
 
 ___
 
@@ -156,20 +121,19 @@ Stay updated with my projects, development journey, and tech explorations by con
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/alphonsa-sooter-289065349" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/alphonsasooter">
+<img src="https://img.shields.io/badge/GitHub-alphonsasooter-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://github.com/alphonsasooter" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/alphonsa-sooter-289065349">
+<img src="https://img.shields.io/badge/LinkedIn-Alphonsa%20Sooter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw">
+<img src="https://img.shields.io/badge/Instagram-@asnohpla-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
-
 
 <p align="center">  𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 — 𝒌𝒆𝒆𝒑 𝒄𝒐𝒅𝒊𝒏𝒈, 𝒔𝒕𝒂𝒚 𝒂𝒘𝒆𝒔𝒐𝒎𝒆, 𝒂𝒏𝒅 𝒍𝒆𝒕’𝒔 𝒃𝒖𝒊𝒍𝒅 𝒈𝒓𝒆𝒂𝒕 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒓𝒐𝒎 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒄𝒐𝒅𝒆.✨️</p>
 
