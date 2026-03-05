@@ -142,5 +142,34 @@ Stay updated with my projects, development journey, and tech explorations by con
 
 </p>
 
+
+
+<p align="center">
+
+<a href="https://github.com/alphonsasooter">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="30" style="filter: invert(1);" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/alphonsa-sooter-289065349">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" style="filter: invert(1);" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="30" style="filter: invert(1);" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:alphonsasooter@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="30" style="filter: invert(1);" />
+</a>
+
+</p>
+
+
 <p align="center">  𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 — 𝒌𝒆𝒆𝒑 𝒄𝒐𝒅𝒊𝒏𝒈, 𝒔𝒕𝒂𝒚 𝒂𝒘𝒆𝒔𝒐𝒎𝒆, 𝒂𝒏𝒅 𝒍𝒆𝒕’𝒔 𝒃𝒖𝒊𝒍𝒅 𝒈𝒓𝒆𝒂𝒕 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒓𝒐𝒎 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒄𝒐𝒅𝒆.✨️</p>
 
