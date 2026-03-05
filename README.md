@@ -21,11 +21,6 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 - Node.js & Express.js – REST APIs and backend development    
   
 
----
-
-##  Want to Learn Next
-- Spring Boot– advanced Java backend development  
-- System Design– scalable and maintainable application architecture
 
 ___
 
@@ -114,6 +109,14 @@ ___
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ___
+
+##  Want to Learn Next
+- Spring Boot– advanced Java backend development  
+- System Design– scalable and maintainable application architecture
+
+___
+
+
 ## Connect & Follow
 
 
