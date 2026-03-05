@@ -156,16 +156,20 @@ Stay updated with my projects, development journey, and tech explorations by con
 
 <p align="center">
 
-<a href="https://github.com/alphonsasooter">
-<img src="https://img.shields.io/badge/GitHub-alphonsasooter-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/alphonsasooter" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-@alphonsasooter-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/alphonsa-sooter-289065349">
-<img src="https://img.shields.io/badge/LinkedIn-Alphonsa%20Sooter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/alphonsa-sooter-289065349" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw">
-<img src="https://img.shields.io/badge/Instagram-@asnohpla-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
