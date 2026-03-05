@@ -24,9 +24,9 @@ I believe in learning step-by-step and strengthening my **problem-solving abilit
 
 ___
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🧑‍💻 Languages
+### Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -38,7 +38,7 @@ ___
 
 ___
 
-### 🎨 Frontend
+###  Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
@@ -49,7 +49,7 @@ ___
 
 ___
 
-### ⚙️ Backend
+###  Backend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -59,7 +59,7 @@ ___
 
 ___
 
-### 🗄️ Database
+###  Database
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -70,7 +70,7 @@ ___
 ___
 
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -89,7 +89,7 @@ ___
 
 ___
 
- ## 📊 GitHub Status
+ ## GitHub Status
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" height="180"/>
