@@ -132,10 +132,6 @@ Stay updated with my projects, development journey, and tech explorations by con
 <img src="https://img.shields.io/badge/LinkedIn-Alphonsa%20Sooter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/asnohpla?igsh=Njk5Mjc5aGV3Njlw">
-<img src="https://img.shields.io/badge/Instagram-@asnohpla-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 <a href="mailto:alphonsasooter@gmail.com">
 <img src="https://img.shields.io/badge/Email-alphonsasooter@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
