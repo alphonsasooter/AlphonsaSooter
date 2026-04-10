@@ -91,7 +91,7 @@ ___
 
  ## GitHub Status
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&background=000000&ring=808080&fire=808080&currStreakLabel=808080&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=6cb6ff&hide_border=true" height="180"/>
 </p>
 
 <div align="center">
