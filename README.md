@@ -91,20 +91,17 @@ ___
 
  ## GitHub Status
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" width="49%" />
+<img src="https://streak-stats.demolab.com?user=alphonsasooter&theme=tokyonight&hide_border=true" height="180"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&theme=tokyo-night&hide_border=true" width="49%" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=alphonsasooter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&bg_color=1a1b27&color=70a5fd&line=3fb950&point=70a5fd&area=false&hide_border=true" width="48%" />
 
 </div>
-
-
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
