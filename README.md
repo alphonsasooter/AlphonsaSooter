@@ -4,7 +4,6 @@
 
 <h3 align="center">Always Learning | Building Real Projects</h3>
 
-<div align="center">
 <p align="center">
 <a href="https://alphnzzaa.vercel.app">
 <img src="https://img.shields.io/badge/$%20run_portfolio-111111?style=for-the-badge&logo=vercel&logoColor=00ffcc"/>
