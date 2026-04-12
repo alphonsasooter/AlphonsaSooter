@@ -98,9 +98,9 @@ ___
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark&cache_seconds=86400" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark&cache_seconds=86400" width="39%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&bg_color=0d1117&color=6cb6ff&line=14b8a6&point=6cb6ff&area=false&hide_border=true" width="58%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&bg_color=0d1117&color=6cb6ff&line=14b8a6&point=6cb6ff&area=false&hide_border=true" width="49%" />
 
 </div>
 
