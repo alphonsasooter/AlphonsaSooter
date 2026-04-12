@@ -97,11 +97,7 @@ ___
 </p>
 
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark&cache_seconds=86400" width="49%" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&bg_color=0d1117&color=6cb6ff&line=14b8a6&point=6cb6ff&area=false&hide_border=true" width="49%" />
-
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" width="49%" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&bg_color=0d1117&color=6cb6ff&line=6cb6ff&point=6cb6ff&area=true&area_color=14b8a6&hide_border=true" width="49%" /></p>
 </div>
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
