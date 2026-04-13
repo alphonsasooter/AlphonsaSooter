@@ -96,9 +96,13 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&background=000000&ring=808080&fire=808080&currStreakLabel=808080&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=6cb6ff&hide_border=true" height="180"/>
 </p>
 
-<div align="center">
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark" width="49%" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&bg_color=0d1117&color=6cb6ff&line=6cb6ff&point=6cb6ff&area=true&area_color=14b8a6&hide_border=true" width="49%" /></p>
-</div>
+
+<table>
+<tr>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphonsasooter&theme=github_dark"/></td>
+<td width="50%"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsasooter&bg_color=0d1117&color=6cb6ff&line=6cb6ff&point=6cb6ff&area=true&area_color=3fb950&hide_border=true"/></td>
+</tr>
+</table>
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
