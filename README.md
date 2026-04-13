@@ -9,19 +9,44 @@
 ___
 
 ## Get to Know Me 
-
-I'm a passionate developer who enjoys building real-world applications, exploring new technologies,and continuously improving my skills across **frontend**, **backend**, and **mobile development**.
-
-I believe in learning step-by-step and strengthening my **problem-solving abilities** through hands-on projects.
+```json
+{
+  "name": "Alphonsa",
+  "role": "Developer",
+  "field_of_study": "B.TECH Computer Science with Artificial Intelligence",
+  "about": "Passionate about building real-world applications and exploring modern technologies.",
+  "interests": [
+    "Frontend Development",
+    "Backend Development",
+    "Mobile App Development"
+  ],
+  "approach": "Learning step-by-step by building projects and improving problem-solving skills"
+}
+```
 
 ---
 
 ## Currently Learning
-- Flutter– building cross-platform mobile applications  
-- MongoDB– understanding NoSQL databases and data modeling    
-- React – creating fast, interactive user interfaces
-- Node.js & Express.js – REST APIs and backend development    
-  
+
+```json
+{
+  "currently_learning": [
+    {
+      "technology": "Flutter",
+      "focus": "Cross-platform mobile applications"
+    },
+    {
+      "technology": "MongoDB",
+      "focus": "NoSQL databases and data modeling"
+    },
+    {
+      "technology": "Spring Boot",
+      "focus": "Modern Java backend development"
+    }
+  ]
+}
+
+```
 
 
 ___
