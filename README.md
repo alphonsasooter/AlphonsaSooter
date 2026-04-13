@@ -14,7 +14,7 @@ ___
   "name": "Alphonsa",
   "role": "Developer",
   "field_of_study": "B.TECH Computer Science with Artificial Intelligence",
-  "about": "Passionate about building real-world applications and exploring modern technologies and creating apps using AI-powered development tools.",
+  "about": "Passionate about building real-world applications,exploring modern technologies and creating apps using AI-powered development tools.",
   "interests": [
     "Frontend Development",
     "Backend Development",
