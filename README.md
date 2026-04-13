@@ -108,11 +108,24 @@ ___
 
 ___
 
-##  Want to Learn Next
-- Spring Boot– advanced Java backend development  
-- System Design– scalable and maintainable application architecture
+## Learning Roadmap
 
-___
+```json
+{
+  "next_learnings": [
+    {
+      "technology": "AI Integrated Applications",
+      "purpose": "Building intelligent apps powered by artificial intelligence"
+    },
+    {
+      "technology": "System Design",
+      "purpose": "Designing scalable and maintainable software architectures"
+    }
+  ]
+}
+
+```
+
 
 
 ## Connect & Follow
