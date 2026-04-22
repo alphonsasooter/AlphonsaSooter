@@ -56,7 +56,10 @@ ___
 
 ___
 
-## Tech Stack
+
+<!-- SKILLS MATRIX -->
+## `~/skills --list --verbose`
+
 
 
 
