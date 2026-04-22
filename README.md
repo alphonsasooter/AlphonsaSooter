@@ -8,7 +8,12 @@
 
 ___
 
+
+<!-- ABOUT ME TERMINAL BLOCK -->
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ## Get to Know Me 
+
 ```json
 {
   "name": "Alphonsa",
