@@ -166,8 +166,7 @@ ___
 ```
 ___
 
-## Connect & Follow
-
+ ## `~/connect_and_follow`
 
 Stay updated with my projects, development journey, and tech explorations by connecting with me.
 
