@@ -8,47 +8,37 @@
 
 ___
 
-## `~/get_to_know_me.json`
+## `~/get_to_know_me.yaml`
 
-```json
-{
-  "name": "Alphonsa",
-  "role": "Developer",
-  "field_of_study": "B.TECH Computer Science with Artificial Intelligence",
-  "about": "Passionate about building real-world applications,exploring modern technologies and creating apps using AI-powered development tools.",
-  "interests": [
-    "Frontend Development",
-    "Backend Development",
-    "Mobile App Development"
-  ],
-  "approach": "Learning step-by-step by building projects and improving problem-solving skills"
-}
+```yaml
+name:          Alphonsa
+role:          Developer
+field_of_study: B.TECH Computer Science with Artificial Intelligence
+about:         Passionate about building real-world applications, exploring
+               modern technologies and creating apps using AI-powered tools.
+interests:
+  - Frontend Development
+  - Backend Development
+  - Mobile App Development
+approach:      Learning step-by-step by building projects and improving
+               problem-solving skills
 ```
 
 ---
 
-## `~/currently_learning.json`
+## `~/currently_learning.yaml`
 
-```json
-{
-  "currently_learning": [
-    {
-      "technology": "Flutter",
-      "focus": "Cross-platform mobile applications"
-    },
-    {
-      "technology": "MongoDB",
-      "focus": "NoSQL databases and data modeling"
-    },
-    {
-      "technology": "Spring Boot",
-      "focus": "Modern Java backend development"
-    }
-  ]
-}
+```yaml
+currently_learning:
+  - technology: Flutter
+    focus:      Cross-platform mobile applications
 
+  - technology: MongoDB
+    focus:      NoSQL databases and data modeling
+
+  - technology: Spring Boot
+    focus:      Modern Java backend development
 ```
-
 
 ___
 
@@ -145,22 +135,15 @@ ___
 
 ___
 
-## `~/roadmap.json`
+## `~/roadmap.yaml`
 
-```json
-{
-  "next_learnings": [
-    {
-      "technology": "AI Integrated Applications",
-      "purpose": "Building intelligent apps powered by artificial intelligence"
-    },
-    {
-      "technology": "System Design",
-      "purpose": "Designing scalable and maintainable software architectures"
-    }
-  ]
-}
+```yaml
+next_learnings:
+  - technology: AI Integrated Applications
+    purpose:    Building intelligent apps powered by artificial intelligence
 
+  - technology: System Design
+    purpose:    Designing scalable and maintainable software architectures
 ```
 ___
 
