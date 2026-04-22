@@ -5,7 +5,8 @@
 <h3 align="center">Always Learning | Building Real Projects</h3>
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-___
+
+```
 
 ## `~/get_to_know_me.json`
 
