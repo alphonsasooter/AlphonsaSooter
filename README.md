@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:1c1c1c&height=280&section=header&text=Alphonsa%20Sooter&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&font=Times%20New%20Roman&desc=Student%20•%20Student%20•%20Full-Stack%20Developer%20•%20DevOps%20Explorer&descSize=17&descAlignY=63&descColor=dbeafe&animation=scaleIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:1c1c1c&height=280&section=header&text=Alphonsa%20Sooter&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&font=Times%20New%20Roman&desc=%20Student%20•%20Full-Stack%20Developer%20•%20DevOps%20Explorer&descSize=17&descAlignY=63&descColor=dbeafe&animation=scaleIn" width="100%" />
 
 <h3 align="center">Always Learning | Building Real Projects</h3>
 
