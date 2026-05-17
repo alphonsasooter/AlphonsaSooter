@@ -162,10 +162,6 @@ Stay updated with my projects, development journey, and tech explorations by con
 <img src="https://img.shields.io/badge/Email-alphonsasooter@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://alphnzzaa.vercel.app">
-<img src="https://img.shields.io/badge/$%20run_portfolio-111111?style=for-the-badge&logo=vercel&logoColor=00ffcc"/>
-</a>
-
 </p>
 
 ___
