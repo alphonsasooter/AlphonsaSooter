@@ -133,7 +133,6 @@ ___
 </table>
 
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ___
 
@@ -148,7 +147,8 @@ next_learnings:
     purpose:    Designing scalable and maintainable software architectures
 ```
 ___
-
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+___
  ## `~/connect_and_follow`
 
 Stay updated with my projects, development journey, and tech explorations by connecting with me.
