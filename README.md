@@ -46,7 +46,7 @@ ___
 
 
 
-## `~/skills --list --verbose`
+## `~/tech --stack`
 
 
 
