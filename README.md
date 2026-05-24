@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:203a43,100:0f2027&height=150&section=header" width="100%"/>
-  
+<div align="center">  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1f4037,100:99f2c8&height=150&section=header" width="100%"/>
+ 
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alphonsa%20Sooter&fontSize=72&fontColor=f5f5f5&animation=scaleIn&fontAlignY=28&desc=✦%20Student%20•%20Full-Stack%20Developer%20•%20DevOps%20Explorer%20✦&descAlignY=64&descSize=20&descColor=d4d4d4&stroke=8B5E3C&strokeWidth=1.5" style="margin-top:-18px;"/>
 </div>
 
@@ -171,4 +171,5 @@ ___
 
 ___
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:203a43,100:0f2027&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1f4037,100:99f2c8&height=150&section=footer" width="100%"/>
+
