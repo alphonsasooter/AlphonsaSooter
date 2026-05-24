@@ -50,9 +50,7 @@ ___
 
 
 
-
 <table>
-
 <tr>
 <th valign="top">Languages</th>
 <th valign="top">Frontend</th>
@@ -65,46 +63,46 @@ ___
 
 <!-- LANGUAGES -->
 <td valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/>
+<img src="https://cdn.simpleicons.org/c" width="28"/>
+<img src="https://cdn.simpleicons.org/openjdk" width="28"/>
+<img src="https://cdn.simpleicons.org/python" width="28"/>
+<img src="https://cdn.simpleicons.org/typescript" width="28"/>
 </td>
 
 <!-- FRONTEND -->
 <td valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28"/>
+<img src="https://cdn.simpleicons.org/flutter" width="28"/>
+<img src="https://cdn.simpleicons.org/react" width="28"/>
+<img src="https://cdn.simpleicons.org/angular" width="28"/>
+<img src="https://cdn.simpleicons.org/bootstrap" width="28"/>
+<img src="https://cdn.simpleicons.org/vuedotjs" width="28"/>
 </td>
 
 <!-- BACKEND -->
 <td valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="28"/>
+<img src="https://cdn.simpleicons.org/nodedotjs" width="28"/>
+<img src="https://cdn.simpleicons.org/express" width="28"/>
+<img src="https://cdn.simpleicons.org/php" width="28"/>
+<img src="https://cdn.simpleicons.org/dart" width="28"/>
 </td>
 
 <!-- DATABASE -->
 <td valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28"/>
+<img src="https://cdn.simpleicons.org/mysql" width="28"/>
+<img src="https://cdn.simpleicons.org/mongodb" width="28"/>
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="28"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28"/>
 </td>
 
 <!-- TOOLS -->
 <td valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/>
-<img src="https://cdn.simpleicons.org/vercel/000000" width="28"/>
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="28"/>
+<img src="https://cdn.simpleicons.org/github" width="28"/>
+<img src="https://cdn.simpleicons.org/git" width="28"/>
+<img src="https://cdn.simpleicons.org/docker" width="28"/>
+<img src="https://cdn.simpleicons.org/vercel" width="28"/>
+<img src="https://cdn.simpleicons.org/netlify" width="28"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/>
+<img src="https://cdn.simpleicons.org/linux" width="28"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28"/>
 </td>
 
