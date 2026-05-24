@@ -45,7 +45,7 @@ currently_learning:
 ___
 
 
-<!-- SKILLS MATRIX -->
+
 ## `~/skills --list --verbose`
 
 
@@ -61,7 +61,7 @@ ___
 
 <tr>
 
-<!-- LANGUAGES -->
+
 <td valign="top">
 <img src="https://cdn.simpleicons.org/c" width="28"/>
 <img src="https://cdn.simpleicons.org/openjdk" width="28"/>
@@ -69,7 +69,7 @@ ___
 <img src="https://cdn.simpleicons.org/typescript" width="28"/>
 </td>
 
-<!-- FRONTEND -->
+
 <td valign="top">
 <img src="https://cdn.simpleicons.org/flutter" width="28"/>
 <img src="https://cdn.simpleicons.org/react" width="28"/>
@@ -78,7 +78,7 @@ ___
 <img src="https://cdn.simpleicons.org/vuedotjs" width="28"/>
 </td>
 
-<!-- BACKEND -->
+
 <td valign="top">
 <img src="https://cdn.simpleicons.org/nodedotjs" width="28"/>
 <img src="https://cdn.simpleicons.org/express" width="28"/>
@@ -86,7 +86,7 @@ ___
 <img src="https://cdn.simpleicons.org/dart" width="28"/>
 </td>
 
-<!-- DATABASE -->
+
 <td valign="top">
 <img src="https://cdn.simpleicons.org/mysql" width="28"/>
 <img src="https://cdn.simpleicons.org/mongodb" width="28"/>
@@ -94,7 +94,7 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28"/>
 </td>
 
-<!-- TOOLS -->
+
 <td valign="top">
 <img src="https://cdn.simpleicons.org/github" width="28"/>
 <img src="https://cdn.simpleicons.org/git" width="28"/>
@@ -112,7 +112,7 @@ ___
 ___
 
  
-<!-- GITHUB STATS -->
+
 ## `~/stats --user=me`
 
 <p align="center">
