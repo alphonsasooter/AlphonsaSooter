@@ -11,19 +11,19 @@ ___
 
 
 ## `~/get_to_know_me.yaml`
+```
+name      : Alphonsa
+role      : Developer
+study     : B.TECH Computer Science with Artificial Intelligence
 
-```yaml
-name:          Alphonsa
-role:          Developer
-field_of_study: B.TECH Computer Science with Artificial Intelligence
-about:         Passionate about building real-world applications, exploring
-               modern technologies and creating apps using AI-powered tools.
-interests:
-  - Frontend Development
-  - Backend Development
-  - Mobile App Development
-approach:      Learning step-by-step by building projects and improving
-               problem-solving skills
+about     : Building real-world applications
+            Exploring modern technologies
+            Creating AI-powered tools
+
+interests : Frontend Development
+            Backend Development
+            Mobile App Development
+
 ```
 
 ---
