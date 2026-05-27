@@ -30,16 +30,18 @@ interests : Frontend Development
 
 ## `~/currently_learning.yaml`
 
-```yaml
+```
 currently_learning:
-  - technology: Flutter
-    focus:      Cross-platform mobile applications
 
-  - technology: MongoDB
-    focus:      NoSQL databases and data modeling
+Flutter
+- Cross-platform mobile apps
 
-  - technology: Spring Boot
-    focus:      Modern Java backend development
+MongoDB
+- NoSQL databases & data modeling
+
+Spring Boot
+- Modern Java backend development
+
 ```
 
 ___
@@ -132,13 +134,14 @@ ___
 
 ## `~/roadmap.yaml`
 
-```yaml
+```
 next_learnings:
-  - technology: AI Integrated Applications
-    purpose:    Building intelligent apps powered by artificial intelligence
 
-  - technology: System Design
-    purpose:    Designing scalable and maintainable software architectures
+AI Integrated Applications
+- Building intelligent AI-powered apps
+
+System Design
+- Designing scalable software architectures
 ```
 ___
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
