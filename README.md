@@ -154,5 +154,5 @@ ___
 
 ___
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1f4037,100:99f2c8&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1f4037,100:99f2c8&height=100&section=footer" width="100%"/>
 
