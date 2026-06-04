@@ -8,7 +8,7 @@
 ___
 
 
-## `~Get_to_Know_Me `
+## `~/Get_to_Know_Me `
 ```
 name      : Alphonsa
 role      : Developer
