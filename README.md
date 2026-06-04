@@ -108,8 +108,8 @@ ___
 </tr>
 </table>
 
-
-
+___
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 ___
 
 ## `~/roadmap.yaml`
@@ -124,8 +124,7 @@ System Design
 - Designing scalable software architectures
 ```
 ___
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-___
+
  ## `~/connect_and_follow`
 
 
