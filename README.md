@@ -26,24 +26,6 @@ interests : Frontend Development
 
 ```
 
----
-
-## `~/currently_learning.yaml`
-
-```
-currently_learning:
-
-Flutter
-- Cross-platform mobile apps
-
-MongoDB
-- NoSQL databases & data modeling
-
-Spring Boot
-- Modern Java backend development
-
-```
-
 ___
 
 
