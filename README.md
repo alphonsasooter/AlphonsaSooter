@@ -8,7 +8,7 @@
 ___
 
 
-## `~/get_to_know_me.yaml`
+## ~/get_to_know_me.yaml
 ```
 name      : Alphonsa
 role      : Developer
