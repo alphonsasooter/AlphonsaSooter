@@ -97,9 +97,7 @@ ___
 
 ## `~/stats --user=me`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&background=000000&ring=808080&fire=808080&currStreakLabel=808080&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=6cb6ff&hide_border=true" height="180"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsasooter&theme=matrix&background=000000&border=808080&stroke=808080&ring=808080&fire=808080&currStreakNum=808080&sideNums=808080&currStreakLabel=808080&sideLabels=808080&dates=6cb6ff" />
 
 <table>
 <tr>
