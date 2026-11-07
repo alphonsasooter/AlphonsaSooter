@@ -12,7 +12,7 @@ ___
 ```
 name      : Alphonsa
 role      : Developer
-study     : B.TECH Computer Science with Artificial Intelligence
+study     : B.TECH Computer Science Engineering (Artificial Intelligence)
 
 about     : Building real-world applications
             Exploring modern technologies
